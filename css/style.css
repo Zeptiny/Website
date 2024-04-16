@@ -22,7 +22,7 @@ nav li {
 }
 
 nav li a {
-    color: #ffa500;
+    color: #60779b;
     display: block;
     text-align: center;
     padding: 14px 16px;
@@ -30,21 +30,21 @@ nav li a {
 }
 
 nav li a:hover {
-    color: #ffbb3c;
+    color: #545c81;
 }
 
 .active {
-    color: #c27e00;
+    color: #434b77;
 }
 /* End Navbar */
 
 /* Sobre */
 a{
-    color: #ffa500;
+    color: #60779b;
     text-decoration: none;
 }
 a:hover{
-    color: #ffbb3c;
+    color: #545c81;
 }
 .sobre{
     margin: auto;
