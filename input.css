@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .nav-item{
+        @apply text-onSecondary hover:text-onTertiary mx-3 rounded-md hover:bg-tertiary px-2 py-2;
+    }
+}
