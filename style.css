@@ -693,3 +693,8 @@ video {
   --tw-text-opacity: 1;
   color: rgb(242 242 242 / var(--tw-text-opacity));
 }
+
+.hover\:text-tertiary:hover {
+  --tw-text-opacity: 1;
+  color: rgb(227 66 52 / var(--tw-text-opacity));
+}
